@@ -1,0 +1,70 @@
+.container{
+  background: linear-gradient(90deg, #6a6f6f 0%, #efbf73 40%, #06e1e1 100%);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+  font-size: 30px;
+  font-family: 'Roboto', sans-serif;
+  padding-bottom: 30px;
+}
+
+.block-1{
+  background-color: rgb(223, 245, 245);
+  border: double 10px rgb(150, 143, 108);
+  border-radius: 30px;
+  overflow: hidden;
+  height: 500px;
+  padding: 20px;
+}
+
+.bloque-de-nombres{
+  height: 480px;
+  width: 500px;
+  overflow: auto;
+}
+
+.bloque-de-nombres button{
+  background-color: red;
+  border: none;
+  width: auto;
+  border-radius: 50px;
+  color: #fff;
+  height: 20px;
+  font-size: 15px;
+}
+
+.block-2{
+  background-color: rgb(223, 245, 245);
+  border: double 10px rgb(150, 143, 108);
+  border-radius: 30px;
+  overflow: hidden;
+  height: 500px;
+  padding: 20px;
+}
+
+li{
+  font-weight: bold;
+}
+
+.algo{
+  font-weight: bold;
+  display: flex;
+  justify-content: space-between;
+}
+
+button{
+  background-color: rgb(255, 227, 127);
+  width: 100px;
+  height: 35px;
+  border-color: rgb(255, 227, 127);
+  box-shadow: 1px 1px 2px 1px rgba(0,0,0,0.1);
+  font-weight: 500;
+  font-size: 20px;
+}
+
+button:hover{
+  background-color: rgb(190, 150, 8);
+  border: rgb(255, 227, 127);
+  color: #fff;
+}
