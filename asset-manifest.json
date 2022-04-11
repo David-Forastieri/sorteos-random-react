@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sorteos-random-react/static/css/main.a6831e37.css",
+    "main.js": "/sorteos-random-react/static/js/main.265385fe.js",
+    "index.html": "/sorteos-random-react/index.html",
+    "main.a6831e37.css.map": "/sorteos-random-react/static/css/main.a6831e37.css.map",
+    "main.265385fe.js.map": "/sorteos-random-react/static/js/main.265385fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6831e37.css",
+    "static/js/main.265385fe.js"
+  ]
+}
